@@ -17,7 +17,7 @@ Este proyecto es un clon de la interfaz usuario de Pinterest, creado puramente c
   (Pendiente)
 
   ### Licencia
-  Distribuido bajo la Licencia MIT. Consulta LICENSE para obtener más información.
+  Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
 
   ### Contacto
   Johana Diaz: [Mi Linkedin](www.linkedin.com/in/johana-diaz-galván-22905b255)
